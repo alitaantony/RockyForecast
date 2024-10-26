@@ -12,7 +12,7 @@ void setup() {
   Serial.begin(115200);
   WiFi.begin(ssid, password);
 
-  // Wait until connected
+  // connection status
   while (WiFi.status() != WL_CONNECTED) {
     delay(500);
     Serial.print(".");
@@ -31,5 +31,5 @@ void loop() {
   
   // Send the status (Raining or Not Raining)
   client.publish("weather/status", "Raining");  // Example data
-  delay(5000);  // Publish every 5 seconds
+  delay(5000);
 }
