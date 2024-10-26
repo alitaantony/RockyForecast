@@ -62,6 +62,11 @@ Place this marvelous rock outside, and when rain hits, it darkens to announce th
      sudo apt install python3-smbus i2c-tools
      pip3 install RPLCD paho-mqtt
      ```
+### **ESP8266 Required Libraries in Arduino IDE** 
+1. Go to **Tools** > **Board** > **Boards Manager** > *Install esp8266 by ESP8266 Community* > **Then select Generic ESP8266 Module among 'Board' > 'esp8266'**
+2. Go to the **Library Manager** : Click on **Sketch** > **Include Library** > **Manage Libraries**
+In the Library Manager, type **"PubSubClient"** into the search bar.
+Find the **"PubSubClient" by Nick O'Leary** and click the Install button.
 
 ### **ESP8266 Code**  
 The ESP8266 publishes the rain status via MQTT to the Raspberry Pi:
