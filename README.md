@@ -12,7 +12,7 @@
 ---
 
 ## **Project Description**  
-**Why rely on your eyes when you have Rocky Forecast?**  
+### **Why rely on your eyes when you have Rocky Forecast?**  
 With our never-before-discovered **water-induced Stone Darkening Property™** and a clever color sensor, you’ll finally know if it's raining—because obviously, **who could tell otherwise?**
 
 ### **The Problem (that doesn’t exist):**  
