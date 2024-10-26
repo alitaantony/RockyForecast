@@ -63,7 +63,7 @@ Place this marvelous rock outside, and when rain hits, it darkens to announce th
      pip3 install RPLCD paho-mqtt
      ```
 ### **ESP8266 Required Libraries in Arduino IDE** 
-1. Go to **Tools** > **Board** > **Boards Manager** > *Install esp8266 by ESP8266 Community* > **Then select Generic ESP8266 Module among 'Board' > 'esp8266'**
+1. Go to **Tools** > **Board** > **Boards Manager** > *Install esp8266 by ESP8266 Community* > Then select **Generic ESP8266 Module** among **'Board'** > **'esp8266'**
 2. Go to the **Library Manager** : Click on **Sketch** > **Include Library** > **Manage Libraries**
 In the Library Manager, type **"PubSubClient"** into the search bar.
 Find the **"PubSubClient" by Nick O'Leary** and click the Install button.
