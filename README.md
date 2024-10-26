@@ -1,15 +1,15 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [ROCKY FORECAST] 🎯
+# ROCKY FORECAST 🎯
 
 
 ## Basic Details
-### Team Name: [AbsurdiTea]
+### Team Name: AbsurdiTea
 
 
 ### Team Members
-- Team Lead: [Alita Antony] - [Jyothi Engineering College]
-- Member 2: [Aditya Manoj] - [Jyothi Engineering College]
+- Team Lead: Alita Antony - Jyothi Engineering College
+- Member 2: Aditya Manoj - Jyothi Engineering College
 
 
 ### Project Description
