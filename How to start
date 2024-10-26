@@ -47,3 +47,7 @@ void loop() {
   client.publish("weather/status", "Raining");  // Example data
   delay(5000);  // Publish every 5 seconds
 }
+
+
+mosquitto_sub -h localhost -t "weather/status" -v
+(Verify the MQTT Communication)
