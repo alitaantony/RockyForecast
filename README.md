@@ -135,7 +135,7 @@ client.loop_forever()
 ---
 
 ## **Screenshots**  
-<img width="1280" alt="readme-banner" src="https://github.com/alitaantony/RockyForecast/blob/main/circuitdiagram.png">
+<img width="500" alt="readme-banner" src="https://github.com/alitaantony/RockyForecast/blob/main/circuitdiagram.png">
 here's the circuit diagram with the connections made simple 
 
 
