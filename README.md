@@ -4,17 +4,16 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [AbsurdiTea]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Alita Antony] - [Jyothi Engineering College]
+- Member 2: [Aditya Manoj] - [Jyothi Engineering College]
+
 
 ### Project Description
-[2-3 lines about what your project does]
-
+Why rely on your eyes when you have Rocky Forecast? With the never-before-discovered water-induced Stone Darkening Property™, and a clever color sensor, you’ll know the forecast right from your rock! You’ll finally know if it’s raining—because obviously, who could tell otherwise? 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
 
