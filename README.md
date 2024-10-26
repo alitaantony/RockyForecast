@@ -15,10 +15,10 @@
 ### Project Description
 Why rely on your eyes when you have Rocky Forecast? With the never-before-discovered water-induced Stone Darkening Property™, and a clever color sensor, you’ll know the forecast right from your rock! You’ll finally know if it’s raining—because obviously, who could tell otherwise? 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+ In a world overflowing with high-tech gadgets and weather apps, we face a pressing crisis: how to determine if it's currently raining without ever looking out the window. Enter Rocky Forecast! This revolutionary project tackles the absurd dilemma of 'Is it raining?' by using the innovative color-changing magic of granite. Why trust your instincts when a stone can do the job? Finally, you can stop squinting through the drizzle and let Rocky do the wet work!
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We’ve harnessed the power of a color-changing granite stone, paired with a color sensor, to detect if it’s raining. Simply place this marvelous rock outside, and when the rain hits, it darkens to signal the wetness. Who needs common sense when you have a stone that dramatically announces the obvious? Now you can confidently stroll outside and ask, 'Is it raining?' while your trusty Rocky does all the work—no umbrella needed!
 
 ## Technical Details
 ### Technologies/Components Used
