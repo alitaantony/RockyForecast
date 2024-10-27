@@ -203,14 +203,12 @@ client.loop_forever()
 - **Raspberry Pi** receives the message and updates the **I2C LCD** with rain status.
 
 <img width="500" alt="readme-banner" src="https://github.com/alitaantony/RockyForecast/blob/main/circuitdiagram.png">
-*Describe the connections.*
+
 
 ---
 
 ## **Screenshots**  
-
-<img width="1280" alt="readme-banner" src="[https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c](https://github.com/alitaantony/RockyForecast/blob/main/20241027_163025.jpg)">
-
+<img width="500" alt="readme-banner" src="https://github.com/alitaantony/RockyForecast/blob/main/20241027_163025.jpg">
 
 ---
 
