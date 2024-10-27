@@ -135,14 +135,14 @@ client.loop_forever()
 - **ESP8266** connects to Wi-Fi and sends MQTT data.  
 - **Raspberry Pi** receives the message and updates the **I2C LCD** with rain status.
 
-![Circuit Diagram](Add your circuit diagram here)  
+<img width="500" alt="readme-banner" src="https://github.com/alitaantony/RockyForecast/blob/main/circuitdiagram.png">
 *Describe the connections.*
 
 ---
 
 ## **Screenshots**  
-<img width="500" alt="readme-banner" src="https://github.com/alitaantony/RockyForecast/blob/main/circuitdiagram.png">
-here's the circuit diagram with the connections made simple 
+
+
 
 
 
