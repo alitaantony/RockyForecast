@@ -11,6 +11,13 @@
 
 ---
 
+## **Demo Video**  
+[ROCKYINACTION!!!](https://drive.google.com/file/d/1js0MpvXzwSFLyE_y3JBSpByRorwqpPFU/view?usp=sharing)  
+It's a demo on why YOUR vision is useless and why Rocky Forecast is about to revolutionize rain detection tech by combining our TOTALLY patented Stone Darkening Property and a color senser to know IF its raining based on the color change in the stone!!
+
+---
+---
+
 ## **Project Description**  
 ### **Why rely on your eyes when you have Rocky Forecast?**  
 With our never-before-discovered **water-induced Stone Darkening Property™** and a clever color sensor, you’ll finally know if it's raining—because obviously, **who could tell otherwise?**
@@ -210,13 +217,6 @@ client.loop_forever()
 ## **Screenshots**  
 <img width="500" alt="readme-banner" src="https://github.com/alitaantony/RockyForecast/blob/main/20241027_163025.jpg">
 
----
-
-## **Demo Video**  
-[ROCKYINACTION!!!](https://drive.google.com/file/d/1js0MpvXzwSFLyE_y3JBSpByRorwqpPFU/view?usp=sharing)  
-It's a demo on why YOUR vision is useless and why Rocky Forecast is about to revolutionize rain detection tech by combining our TOTALLY patented Stone Darkening Property and a color senser to know IF its raining based on the color change in the stone!!
-
----
 
 ## **Team Contributions**
 - **Alita Antony**: Code and hardware implementation  
